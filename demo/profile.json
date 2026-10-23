@@ -1,0 +1,9 @@
+{
+  "gender": "Male",
+  "age": 21,
+  "height_cm": 175.0,
+  "start_weight_kg": 74.0,
+  "activity": "Lightly active",
+  "goal": "Lose weight",
+  "goal_weight_kg": 70.0
+}

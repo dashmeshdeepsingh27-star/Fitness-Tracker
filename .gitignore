@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.tmp
+venv/
+.venv/
+
+# your personal logs stay on your machine (the demo/ folder is shared)
+data/food_log.csv
+data/weight_log.csv
+data/workout_log.csv
+data/profile.json
